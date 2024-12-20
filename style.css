@@ -1,0 +1,18 @@
+body {
+	background-color: #373F47;
+	color: #A1CDF4;
+}
+
+.navbar-expand {
+	background-color: #373F47;
+	color: black;
+}
+
+.carousel {
+	border: 100px;
+	width: 1000px;
+	height: 50px;
+	
+}
+
+
